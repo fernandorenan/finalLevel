@@ -1,0 +1,12 @@
+[submodule "client/client"]
+	path = client/client
+	url = https://github.com/fernandorenan/backLevel.git
+[submodule "client/front"]
+	path = client/front
+	url = https://github.com/fernandorenan/frontLevel.git
+[submodule "web"]
+	path = web
+	url = https://github.com/fernandorenan/backLevel.git
+[submodule "front"]
+	path = front
+	url = https://github.com/fernandorenan/frontLevel.git
